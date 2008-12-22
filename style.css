@@ -1,5 +1,5 @@
 body {
-   background-color: #FFFFFF;
+   background-color: #FEF9F0;
    border: 0px;
    margin: 0px;
    font-family: Lucida Grande, Helvetica, Arial;
@@ -26,16 +26,17 @@ a:active {
 }
 #header {
    text-align: left;
-   background-color: #4A4A4B;
-   height: 4.0em;
+   background-color: #00A8C6;
+   height: 6.0em;
 }
 .title {
    position: absolute;
    top: 0.4em;
    margin: 0px;
    left: 3em;
-   color: #838383;
-   font-family: Georgia,serif;
+   color: #B0F8FF;
+   font-family: Monaco, Consolas, monospace;
+   font-size: 30pt;
 }
 
 .site {
@@ -100,7 +101,7 @@ h3 {
 }
 
 #footer {
-   background-color: #B7B8A0  ;
+   background-color: #8FBE00;
    height: 5em;
    font-size: 80%;
    text-align: center;
